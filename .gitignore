@@ -1,0 +1,7 @@
+#
+# text-moed demos repository GITIGNORE file
+#
+
+# binary files
+
+*.o *.ppu
